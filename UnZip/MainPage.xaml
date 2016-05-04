@@ -1,0 +1,13 @@
+﻿<Page
+    x:Class="UnZip.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:UnZip"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="#FF2077D4">
+        <Button x:Name="btn_Unzip" Content="Unzip" HorizontalAlignment="Left" Margin="351,270,0,0" VerticalAlignment="Top" Height="83" Width="313" Click="btn_Unzip_Click"/>
+    </Grid>
+</Page>

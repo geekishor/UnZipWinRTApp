@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KISHOR-SURFACEP</Machine>
+    <WindowsUser>Kishor Bikram Oli</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d0c620c3-115b-46d0-a3d3-920a2e035217</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\UnZip\UnZip\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>480775730B4F8323F2822A4C22030EC0D963663E5AE8B1F2540EDDA351B7D3DA</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d0c620c3-115b-46d0-a3d3-920a2e035217_1.0.0.0_neutral__x003cnfqv1qf0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d0c620c3-115b-46d0-a3d3-920a2e035217_x003cnfqv1qf0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d0c620c3-115b-46d0-a3d3-920a2e035217</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Kishor Bikram Oli</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\UnZip\UnZip\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-04T14:22:45.805</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\UnZip\UnZip\bin\Debug\UnZip.exe">
+      <PackagePath>UnZip.exe</PackagePath>
+      <Modified>2016-05-04T14:33:18.678</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\UnZip\UnZip\Assets\TestZip.zip">
+      <PackagePath>Assets\TestZip.zip</PackagePath>
+      <Modified>2016-05-04T14:34:57.959</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\UnZip\UnZip\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:20:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\UnZip\UnZip\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:20:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\UnZip\UnZip\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:20:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\UnZip\UnZip\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:20:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\UnZip\UnZip\bin\Debug\UnZip.xr.xml">
+      <PackagePath>UnZip.xr.xml</PackagePath>
+      <Modified>2016-05-03T02:38:18.886</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\UnZip\UnZip\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-05-03T02:38:18.965</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\UnZip\UnZip\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-05-03T03:00:34.242</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\UnZip\UnZip\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-05-04T14:22:45.730</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

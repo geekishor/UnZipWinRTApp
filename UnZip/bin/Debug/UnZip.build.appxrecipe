@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KISHOR-SURFACEP</Machine>
+    <WindowsUser>Kishor Bikram Oli</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d0c620c3-115b-46d0-a3d3-920a2e035217</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\UnZip\UnZip\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\UnZip\UnZip\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\UnZip\UnZip\bin\Debug\UnZip.exe">
+      <PackagePath>UnZip.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\UnZip\UnZip\Assets\TestZip.zip">
+      <PackagePath>Assets\TestZip.zip</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\UnZip\UnZip\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\UnZip\UnZip\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\UnZip\UnZip\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\UnZip\UnZip\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\UnZip\UnZip\bin\Debug\UnZip.xr.xml">
+      <PackagePath>UnZip.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\UnZip\UnZip\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\UnZip\UnZip\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\UnZip\UnZip\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
